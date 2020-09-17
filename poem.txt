@@ -1,9 +1,11 @@
 The Rainbow
 
 Blue
+Cyan
 Purple
 Pink
 Orange
 Green
 Red
+
 Colors the rainbow
